@@ -1,3 +1,95 @@
 body{
     font-family: 'Lato', sans-serif;
 }
+.half-section{
+     
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2px;
+    margin-top: 150px;
+}
+.half-section img{
+    width:100%;
+}
+.pink{
+    color:tomato;
+    font-size: 40px;
+}
+.header{
+    background-image: url("personal-website/header-bg.png");
+    height:800px;
+  
+}
+.button{
+    text-decoration: none;
+    padding:10px 20px;
+    background-image: linear-gradient(45deg,lightsalmon,tomato);
+    border-radius: 5px;
+}
+.inner{
+
+    background-image:url("personal-website/biography-bg.png");
+    height: 800px;
+    
+}
+.latest-work{
+    background-image: url(personal-website/latest-work-bg.png);
+    height: 400px;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.images img{
+    width: 25%;  
+}
+.footer{
+    background-image:url("personal-website/footer-bg.png");
+    height: 500px;
+    text-align: center;
+}
+ 
+.unknown{
+    color:rgb(153, 143, 143);
+    display: block;
+}
+.lorem{
+    display: block;
+    
+}
+#font{
+    font-size: 20px;
+}
+.hard{ 
+    font-size: 20px;
+    display: block;
+    
+
+}
+.too-hard{
+    
+    display: inline-block;
+    border: 1px solid white;
+    height: 100px;
+    width: 400px;
+    border-radius: 5px;
+    background-image: linear-gradient(lightsalmon, tomato);
+}
+.too-hard a{
+    margin-top: 3px;
+    text-decoration: none;
+    color: white;
+    
+  
+
+    
+}
+.last-p{
+
+    color: gray;
+    padding-top: 70px;
+}
+
+    
+
+
